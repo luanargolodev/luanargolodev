@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @largolodev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @argololuan.
+- 👀 I’m interested in mobile development.
+- 🌱 I’m currently learning react native.
+- 💞️ I’m looking to collaborate on improve my learning.
+- 📫 How to reach me? GitHub.
 
-<!---
-largolodev/largolodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, eu sou o @argololuan.
+- 👀 Sou interessado em desenvolvimento mobile.
+- 🌱 Atualmente estou estudando react native.
+- 💞️ Estou procurando colaborar para melhorar meu aprendizado.
+- 📫 Como me encontrar? GitHub.

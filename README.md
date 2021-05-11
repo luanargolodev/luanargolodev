@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @argololuan.
-- 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning react native.
-- 💞️ I’m looking to collaborate on improve my learning.
-- 📫 How to reach me? GitHub.
+👋 Hi, I’m @argololuan.
+👀 I’m interested in mobile development.
+🌱 I’m currently learning react native.
+🎓 2nd period - Systems Analysis and Development

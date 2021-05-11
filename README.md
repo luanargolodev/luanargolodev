@@ -3,9 +3,3 @@
 - 🌱 I’m currently learning react native.
 - 💞️ I’m looking to collaborate on improve my learning.
 - 📫 How to reach me? GitHub.
-
-- 👋 Olá, eu sou o @argololuan.
-- 👀 Sou interessado em desenvolvimento mobile.
-- 🌱 Atualmente estou estudando react native.
-- 💞️ Estou procurando colaborar para melhorar meu aprendizado.
-- 📫 Como me encontrar? GitHub.

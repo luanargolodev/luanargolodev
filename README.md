@@ -1,5 +1,6 @@
 ## About me
 I'm a web developer.
 
-👨 Currently studying of Analysis and Systems Development.\n
+👨 Currently studying of Analysis and Systems Development.
+
 👨 Developer Front-End (React.js).

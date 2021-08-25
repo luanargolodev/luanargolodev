@@ -1,4 +1,4 @@
 ## About me
-I'm a web developer.
+I'm a Developer.
 
 👨 Currently studying of Analysis and Systems Development.

@@ -14,5 +14,4 @@
   <img alig="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br/>
 
-<h3>Looking for an opportunity as a Front-End Developer.</h3>
-Thank you!
+<h3>Front-end Developer at Agência e-Plus</h3>

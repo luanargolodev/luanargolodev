@@ -14,3 +14,10 @@
   <img alig="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alig="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div><br/>
+
+## Emprego / Jobs
+Estou disponível para novas oportunidades e novos desafios na área da programação. 
+Será uma honra trabalhar com você! 🙂<br/>
+
+I am available for new opportunities and new challenges in the area of ​​programming.
+It will be an honor to work with you! 🙂

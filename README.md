@@ -15,6 +15,10 @@
   <img alig="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div><br/>
 
+## Portfólio
+<a href="https://luanlemos.dev" target="_blank">https://luanlemos.dev</a>
+
+
 ## Emprego / Jobs
 Estou disponível para novas oportunidades e novos desafios na área da programação. 
 Será uma honra trabalhar com você! 🙂<br/>

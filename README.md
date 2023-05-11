@@ -19,9 +19,5 @@
 <a href="https://luanlemos.dev" target="_blank">https://luanlemos.dev</a>
 
 
-## Emprego / Jobs
-Estou disponível para novas oportunidades e novos desafios na área da programação. 
-Será uma honra trabalhar com você! 🙂<br/>
-
-I am available for new opportunities and new challenges in the area of ​​programming.
-It will be an honor to work with you! 🙂
+## Job
+Front-end Developer <a href="https://www.zeedog.com.br/" target="_blank">@zeedog</a>
